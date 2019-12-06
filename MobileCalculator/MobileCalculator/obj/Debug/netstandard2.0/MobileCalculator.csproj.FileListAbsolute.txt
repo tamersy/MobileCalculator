@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MobileCalculator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MobileCalculator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MobileCalculator.AssemblyInfo.cs
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MobileCalculator.dll
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\ref\MobileCalculator.dll
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\MobileCalculator.pdb
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\bin\Debug\netstandard2.0\MobileCalculator.deps.json
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\bin\Debug\netstandard2.0\MobileCalculator.dll
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\bin\Debug\netstandard2.0\ref\MobileCalculator.dll
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\bin\Debug\netstandard2.0\MobileCalculator.pdb
+C:\Users\USER\source\repos\MobileCalculator\MobileCalculator\MobileCalculator\obj\Debug\netstandard2.0\XamlC.stamp

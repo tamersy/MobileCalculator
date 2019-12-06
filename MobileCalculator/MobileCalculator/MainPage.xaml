@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MobileCalculator.MainPage">
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="Center">
+        <!-- Place new controls here -->
+        <Label FontSize="Title" HorizontalOptions="FillAndExpand" x:Name="txtCalculate" />
+        <StackLayout Orientation="Horizontal">
+            <Button Text="1" FontSize="Medium" x:Name="btn1" Clicked="btn1_Clicked" />
+            <Button Text="2" FontSize="Medium" x:Name="btn2" Clicked="btn2_Clicked" />
+            <Button Text="3" FontSize="Medium" x:Name="btn3" Clicked="btn3_Clicked" />
+            <Button Text="+" FontSize="Medium" HorizontalOptions="FillAndExpand" x:Name="btnplus" Clicked="btnplus_Clicked" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="4" FontSize="Medium" x:Name="btn4" Clicked="btn4_Clicked" />
+            <Button Text="5" FontSize="Medium" x:Name="btn5" Clicked="btn5_Clicked" />
+            <Button Text="6" FontSize="Medium" x:Name="btn6" Clicked="btn6_Clicked" />
+            <Button Text="-" FontSize="Medium" HorizontalOptions="FillAndExpand" x:Name="btnminus" Clicked="btnminus_Clicked" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="7" FontSize="Medium" x:Name="btn7" Clicked="btn7_Clicked" />
+            <Button Text="8" FontSize="Medium" x:Name="btn8" Clicked="btn8_Clicked" />
+            <Button Text="9" FontSize="Medium" x:Name="btn9" Clicked="btn9_Clicked" />
+            <Button Text="*" FontSize="Medium" HorizontalOptions="FillAndExpand" x:Name="btnmultiplication" Clicked="btnmultiplication_Clicked" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="C" FontSize="Medium" x:Name="btnclear" Clicked="btnclear_Clicked" />
+            <Button Text="0" FontSize="Medium" x:Name="btn0" Clicked="btn0_Clicked" />
+            <Button Text="." FontSize="Medium" x:Name="btndot" Clicked="btndot_Clicked" />
+            <Button Text="/" FontSize="Medium" HorizontalOptions="FillAndExpand" x:Name="btndivide" Clicked="btndivide_Clicked" />
+        </StackLayout>
+        <Button Text="=" HorizontalOptions="FillAndExpand" FontSize="Medium" x:Name="btnequal" Clicked="btnequal_Clicked" />
+    </StackLayout>
+
+</ContentPage>
